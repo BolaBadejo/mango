@@ -12,4 +12,4 @@ jobs:
       - run: flutter test
       - run: flutter build apk --release
       - store_artifacts:
-        path: build/app/outputs/flutter-apk/app-release.apk
+          path: build/app/outputs/flutter-apk/app-release.apk
