@@ -75,7 +75,7 @@ dependencies:
   flutter_spinkit:
   flutter_tags:
   markdown: ^5.0.0
-  flutter_markdown: ^0.6.10+2
+  flutter_markdown:
   intl: ^0.17.0
   location: ^4.4.0
   location_geocoder: ^1.0.5
